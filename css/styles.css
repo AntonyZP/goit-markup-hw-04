@@ -574,3 +574,9 @@ p {
 .socials-link:focus .social-icon {
   fill: #ffffff;
 }
+/* trainy 
+.social-icon {
+  fill: #afb1b8;
+}
+.social-icon:hover,
+.social-icon:focus {}*/
